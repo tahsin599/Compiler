@@ -78,5 +78,4 @@ gcc -o compiler parser.tab.c lex.yy.c -lfl -g   # link with libfl (or -lfl)
 
 
 
-- "Compilers: Principles, Techniques, and Tools" (a.k.a. the Dragon Book)
-- GNU assembler and x86_64 calling conventions (System V AMD64 ABI)
+
